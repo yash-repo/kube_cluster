@@ -1,0 +1,1 @@
+kubeadm join 192.168.50.10:6443 --token mvdi29.w9mjfoycppwapb3b     --discovery-token-ca-cert-hash sha256:0ecf68502ba6e1b5aae975425e82674096e58b6bf63e42204edefb8fa6258936 
